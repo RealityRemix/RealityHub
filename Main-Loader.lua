@@ -11,7 +11,7 @@ elseif gameId == 14044547200 or
        gameId == 17588217277 or 
        gameId == 18333958402 then
 
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/RealityRemix/RealityHub/refs/heads/main/UntitledTagGameRecode'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/RealityRemix/RealityHub/refs/heads/main/UntitledTagGameRecode'))() warn("YOUWILLGETBANNEDIHAVENTBYPASSEDTHISYET.")
 
 else
     warn("No script available for this game ID.")
