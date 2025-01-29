@@ -1,5 +1,6 @@
 local gameId = game.PlaceId
 
+-- Check game IDs and load corresponding scripts
 if gameId == 12497348201 or 
    gameId == 12497354347 or 
    gameId == 12497360072 or 
@@ -16,4 +17,3 @@ elseif gameId == 14044547200 or
 else
     warn("No script available for this game ID.")
 end
-
